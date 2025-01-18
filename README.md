@@ -29,7 +29,7 @@ Ensure that you have `Node.js` installed on your system. If you haven't installe
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/legacy-lane.git
+    git clone https://github.com/Vivek-s-m/LegacyLane.git
     cd legacy-lane
     ```
 
@@ -57,4 +57,4 @@ Ensure that you have `Node.js` installed on your system. If you haven't installe
     npm run build && npm start
     ```
 
-    The frontend should now be running on `http://localhost:3000` and the backend API on `http://localhost:5000`.
+    The server should now be running on `http://localhost:3000`.
