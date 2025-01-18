@@ -56,7 +56,7 @@ function Home() {
       <div className="max-w-4xl mx-auto p-6">
         <input
           type="text"
-          placeholder="Search temples by name, city, or state"
+          placeholder="Search temples by name"
           value={query}
           onChange={handleSearch}
           className="w-full p-3 border border-gray-300 rounded-lg mb-6"
